@@ -7,6 +7,7 @@
   * Сохранение данных пользователя в Shared Preferences
   * Запись файла в Internal и External storage
   * Запрос Permissions
+  * P.S. только для изучения
   
 ### Задачи:
   * Изучить как работать с SharedPrefs, Permissions
